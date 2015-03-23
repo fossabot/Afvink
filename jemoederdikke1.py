@@ -1,4 +1,5 @@
 def main():
+    
     regels = ""
     teller = 0
     lengte = 0.0
@@ -8,7 +9,7 @@ def main():
         regels = regels + line
         
     for letter in regels:
-        print letter
+        print (letter)
         if letter == "g" or letter == "c":
             teller += 1
         if letter == "g" or letter == "c" or letter == "a" or letter == "t":
@@ -16,5 +17,14 @@ def main():
     
     gcperc =  (teller/lengte)*100
     
-    print "het GC-percentage is" , gcperc , "%. "  
+    print ("het GC-percentage is" , gcperc , "%. ")
+    htmlrapport(gcperc, bestand)
+
+def htmlrapport(gcperc, bestand):
+    html_file = open("rapport.html", "w")
+    gcperc = str(gcperc)
+    html_file.write(gcperc)
+    html_file.write(bestand)
+    html_file.close()
+    
 main()
