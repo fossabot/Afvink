@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDennisj4995%2FAfvink.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FDennisj4995%2FAfvink?ref=badge_shield)
+
    gtctagagcc accgtccagg gagcaggtag ctgctgggct ccggggacac tttgcgttcg
    ggctgggagc gtgctttcca cgacggtgac acgcttccct ggattggcag ccagactgcc
    ttccgggtca ctgccatgga ggagccgcag tcagatccta gcgtcgagcc ccctctgagt
@@ -13,3 +15,7 @@
    cgagtggaag gaaatttgcg tgtggagtat ttggatgaca gaaacacttt tcgacatagt
    gtggtggtgc cctatgagcc gcctgaggtt ggctctgact gtaccaccat ccactacaac
    tacatgtgta acagttcctg catgggcggc atgaaccgga ggcccatcct caccatcatc
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDennisj4995%2FAfvink.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FDennisj4995%2FAfvink?ref=badge_large)
